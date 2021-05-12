@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main(){
+  int rollno;
+  printf("Enter the  your rollno:");
+
+   // take rollno intput from the user
+  scanf("%d",&rollno);
+  printf("rollno=%d",rollno);
+
+  return 0;
+ }
