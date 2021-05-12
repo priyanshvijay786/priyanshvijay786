@@ -1,0 +1,20 @@
+#include <stdio.h>
+int main() 
+{
+   const int MonthsinYear=12;
+  
+   int MoneyGeneratedPerMonth;
+   MoneyGeneratedPerMonth=500;
+    
+    printf("Hello, This style code is designed by priyansh vijay \n");
+    printf("The approximate yearly income will be: %d \n", MoneyGeneratedPerMonth * MonthsinYear);
+    
+    MoneyGeneratedPerMonth=8000;
+    printf("The approximate yearly income will be: %d \n", MoneyGeneratedPerMonth * MonthsinYear);
+    
+    MoneyGeneratedPerMonth=9000;
+    printf("The approximate yearly income will be: %d \n", MoneyGeneratedPerMonth * MonthsinYear);
+    
+    
+        return 0;
+} CD
