@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main() {
+  int number1 = 18;
+  printf("number1: %d\n", 
+age);
+
+  number2 = 25;
+  printf("number2: %d", age);
+
+  return 0;
+}
+
+
+
+#include <stdio.h>
+int main() {
+  int number1 = 25;
+  int number2 = 50;
+  printf("Number is %d", number);
+  printf("number is\n");
+  printf("number is %d", number);
+  return 0;
+}
